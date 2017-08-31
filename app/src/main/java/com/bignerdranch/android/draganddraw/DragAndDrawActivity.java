@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class DragAndDrawActivity extends SingleFragmentActivity {
     //git add test
-    //test~ !!
+    //왜안돼
     @Override
     protected Fragment createFragment(){
         return DragAndDrawFragment.newInstance();
