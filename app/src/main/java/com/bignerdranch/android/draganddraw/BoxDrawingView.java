@@ -18,12 +18,12 @@ import java.util.List;
 
 public class BoxDrawingView extends View {
     private static final String TAG = "BoxDrawingView";
-
+   //git test!
     private Box mCurrentBox;
     private List<Box> mBoxen = new ArrayList<>();
     private Paint mBoxPaint;
     private Paint mBackgroundPaint;
-
+    //git add
     //코드에서 뷰를 생성할 때 사용한다.
     public BoxDrawingView(Context context){
         this(context, null);

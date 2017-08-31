@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class DragAndDrawActivity extends SingleFragmentActivity {
-
+    //git add test
     @Override
     protected Fragment createFragment(){
         return DragAndDrawFragment.newInstance();
